@@ -1,0 +1,3 @@
+this is a sample file for demo 
+input output 
+in python 
